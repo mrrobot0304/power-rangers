@@ -97,6 +97,6 @@ body{
 
 @media (max-width: 576px){
     .content img{
-        width: 75%;
+        width: 250px;
     }
 }
